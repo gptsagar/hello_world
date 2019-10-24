@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PJP1
+ class sAGAR
 { 
 
 public static void main(String[] args)
