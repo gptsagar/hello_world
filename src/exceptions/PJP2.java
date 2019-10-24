@@ -13,7 +13,7 @@ import java.util.Scanner;
     int n=sc.nextInt();    
         System.out.println("The array element at index "+n+"="+a[n]);
           System.out.println("The array element successfully accessed");
-        
+       
  }
     catch(Exception e)
     {       
