@@ -1,2 +1,5 @@
-# wipro
-wipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programswipro programs
+# hello_world
+git started
+
+Hey!
+I am highly dedicated to Competitive Programming.
